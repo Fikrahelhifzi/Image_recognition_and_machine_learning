@@ -1,0 +1,4 @@
+1 - water
+2 - built-up
+3 - low vegetation
+4 - trees
